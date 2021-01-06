@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PalakArora_COMP304_Lab1_ex2</string>
+    <string name="main_activity">Main Activity:</string>
+    <string name="ai_activity">AIActivity:</string>
+    <string name="vr_activity">VRActivity:</string>
+</resources>
